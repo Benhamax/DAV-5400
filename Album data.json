@@ -1,32 +1,32 @@
 [
   {
-    "artistName": "Drake",
-    "albumTitle": "Nothing was the same",
-    "year": 2013,
-    "song 1": "Tuscan leather",
-    "song 2": "Started from the bottom",
-    "song 3": "From time",
-    "song 4": "Hold on, we're going home",
-    "song 5": "Too much"
+    "Artist Name": "Drake",
+    "Album Title": "Nothing was the same",
+    "Year": 2013,
+    "Song 1": "Tuscan leather",
+    "Song 2": "Started from the bottom",
+    "Song 3": "From time",
+    "Song 4": "Hold on, we're going home",
+    "Song 5": "Too much"
   },
   {
-    "artistName": "Michael Jackson",
-    "albumTitle": "Thriller",
-    "year": 1982,
-    "song 1": "Thriller",
-    "song 2": "Beat it",
-    "song 3": "Billie Jean",
-    "song 4": "Human Nature",
-    "song 5": "P.Y.T. (Pretty Young Thing)"
+    "Artist Name": "Michael Jackson",
+    "Album Title": "Thriller",
+    "Year": 1982,
+    "Song 1": "Thriller",
+    "Song 2": "Beat it",
+    "Song 3": "Billie Jean",
+    "Song 4": "Human Nature",
+    "Song 5": "P.Y.T. (Pretty Young Thing)"
   },
   {
-    "artistName": "The Weeknd",
-    "albumTitle": "Starboy",
-    "year": 2016,
-    "song 1": "Starboy",
-    "song 2": "True colors",
-    "song 3": "A lonely night",
-    "song 4": "Die for You",
-    "song 5": "I feel it coming"
+    "Artist Name": "The Weeknd",
+    "Album Title": "Starboy",
+    "Year": 2016,
+    "Song 1": "Starboy",
+    "Song 2": "True colors",
+    "Song 3": "A lonely night",
+    "Song 4": "Die for You",
+    "Song 5": "I feel it coming"
   }
 ]
