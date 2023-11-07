@@ -1,0 +1,38 @@
+[
+  {
+    "artistName": "Drake",
+    "albumTitle": "Nothing was the same",
+    "year": 2013,
+    "songs": [
+      "Tuscan leather",
+      "Started from the bottom",
+      "From time",
+      "Hold on, we're going home",
+      "Too much"
+    ]
+  },
+  {
+    "artistName": "Michael Jackson",
+    "albumTitle": "Thriller",
+    "year": 1982,
+    "songs": [
+      "Thriller",
+      "Beat it",
+      "Billie Jean",
+      "Human Nature",
+      "P.Y.T."
+    ]
+  },
+  {
+    "artistName": "The Weeknd",
+    "albumTitle": "Starboy",
+    "year": 2016,
+    "songs": [
+      "Starboy",
+      "True colors",
+      "A lonely night",
+      "Die for You",
+      "I feel it coming"
+    ]
+  }
+]
